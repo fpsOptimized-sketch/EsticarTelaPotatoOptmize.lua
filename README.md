@@ -1,0 +1,1 @@
+# EsticarTelaPotatoOptmize.lua
